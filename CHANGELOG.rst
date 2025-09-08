@@ -2,8 +2,8 @@
 Changelog for package gz_transport_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.3.0 (2025-09-08)
+------------------
 * Jetty support, 15.0.0-pre1 (`#11 <https://github.com/gazebo-release/gz_transport_vendor/issues/11>`_)
   * Jetty support: 15.0.0-pre1
   * Add zenoh-cpp-vendor
