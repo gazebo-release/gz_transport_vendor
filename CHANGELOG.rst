@@ -2,6 +2,11 @@
 Changelog for package gz_transport_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Bump version to 15.1.0 (`#20 <https://github.com/gazebo-release/gz_transport_vendor/issues/20>`_)
+* Contributors: Carlos Agüero
+
 0.4.0 (2026-05-14)
 ------------------
 
