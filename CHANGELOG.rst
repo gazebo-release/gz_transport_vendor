@@ -2,8 +2,8 @@
 Changelog for package gz_transport_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.2.6 (2026-08-31)
+------------------
 * Enable Python bindings (`#25 <https://github.com/gazebo-release/gz_transport_vendor/issues/25>`_)
 * Contributors: Addisu Z. Taddese
 
