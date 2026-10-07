@@ -2,6 +2,11 @@
 Changelog for package gz_transport_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Bump version to 16.0.0~pre2 (`#27 <https://github.com/gazebo-release/gz_transport_vendor/issues/27>`_)
+* Contributors: Addisu Z. Taddese
+
 0.4.2 (2026-08-25)
 ------------------
 * Upgrade to Rotary prerelease (`#24 <https://github.com/gazebo-release/gz_transport_vendor/issues/24>`_)
